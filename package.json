@@ -1,0 +1,20 @@
+{
+  "name": "basicinfosite",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/kiptalam1/BasicInfoSite#readme",
+  "bugs": {
+    "url": "https://github.com/kiptalam1/BasicInfoSite/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiptalam1/BasicInfoSite.git"
+  },
+  "license": "ISC",
+  "author": "adams",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
